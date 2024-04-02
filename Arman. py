@@ -818,9 +818,9 @@ logo = """
 
 \x1b[1;91m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞   :    ARMAN KING
 
-\x1b[1;92m[+] 𝗚𝗜𝗧𝗛𝗨𝗕      :   wasimmoulik008
+\x1b[1;92m[+] 𝗚𝗜𝗧𝗛𝗨𝗕      :   Armanking
 
-\x1b[1;98m[+] FROM        :   Tangail DHAKA
+\x1b[1;98m[+] FROM        :   TANGAIL DHAKA
 
 \x1b[1;93m[+] 𝗧𝗘𝗔𝗠        :   \33[1;42  BOT HACKER\33[0m
 
@@ -862,11 +862,11 @@ class Main:
 
 		print("")
 
-		print("\033[1;37m [1] First Send Friend Request  ")
+		print("\033[1;37m [1] MY FACEBOOK LINK  ")
 
-		print("\033[1;37m [2] EXIT")
+		print("\033[1;37m [2] FACEBOOK CLONE BD")
 
-		print("")
+		print("033[1;37m [3]EXIT")
 
 		Baloch = input("\n\033[1;37m  Choose : \033[1;32m")
 
@@ -892,13 +892,13 @@ class Main:
 
 			print("")
 
-			input("\n\033[1;37m TYPE THE OWNER FACEBOOK ACCOUNT NAME \033[1;37m")
+			input("\n\033[1;37m TYPE ARMAN HOSSAIN \033[1;37m")
 
 			time.sleep(3.1)
 
 			print("")
 
-			print("\033[1;32m WELCOME TO *TH3 L3G3ND WASIM X HAYAT WORLD*  TOOLS")
+			print("\033[1;32m WELCOME TO *TH3 L3G3ND ARMAN X HAYAT WORLD*  TOOLS")
 
 			time.sleep(3.0)
 
